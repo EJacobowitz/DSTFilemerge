@@ -986,7 +986,7 @@ CUG      AU2
 CUI      CO1                                                
 CUL      MX2                                                
 CUM      VE1                                                
-CUN      MX1                                                
+CUN      MX1B                                               
 CUP      VE1                                                
 CUQ      AU2B                                               
 CUR      AN1                                                
@@ -1036,7 +1036,7 @@ CZE      VE1
 CZF      US5                                                
 CZH      BZ1                                                
 CZL      DZ1                                                
-CZM      MX1                                                
+CZM      MX1B                                               
 CZN      US5                                                
 CZP      US5                                                
 CZS      BR3                                                
